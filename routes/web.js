@@ -31,6 +31,7 @@ function initRoutes(app) {
     app.post('/admin/order/status', admin, statusController().update)
 
     app.delete('/admin/order/delete', admin, statusController().delete)
+	app.get('/all')
 }
 
 module.exports = initRoutes
