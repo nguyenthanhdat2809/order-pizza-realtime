@@ -1,0 +1,515 @@
+[{
+  "_id": {
+    "$oid": "60859e75486c9d07f44a4829"
+  },
+  "paymentType": "COD",
+  "status": "order_placed",
+  "customerId": {
+    "$oid": "608040ce34658324b8b461a5"
+  },
+  "items": {
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 1
+    },
+    "5eee66a5a27a66807cf2bea5": {
+      "item": {
+        "_id": "5eee66a5a27a66807cf2bea5",
+        "name": "Americana",
+        "image": "pizza.png",
+        "price": 500,
+        "size": "large"
+      },
+      "qty": 1
+    },
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 1
+    }
+  },
+  "phone": "0335405097",
+  "address": "Hà Nội",
+  "createdAt": {
+    "$date": "2021-04-25T16:53:09.186Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-25T16:53:09.186Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085aabd486c9d07f44a482a"
+  },
+  "paymentType": "COD",
+  "status": "order_placed",
+  "customerId": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "items": {
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 1
+    },
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 2
+    }
+  },
+  "phone": "0335405098",
+  "address": "Hà Tĩnh",
+  "createdAt": {
+    "$date": "2021-04-25T17:45:33.649Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-25T17:45:33.649Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086d28d86fd4d43849d220d"
+  },
+  "paymentType": "COD",
+  "status": "order_placed",
+  "customerId": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "items": {
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 1
+    },
+    "5eee66a5a27a66807cf2bea5": {
+      "item": {
+        "_id": "5eee66a5a27a66807cf2bea5",
+        "name": "Americana",
+        "image": "pizza.png",
+        "price": 500,
+        "size": "large"
+      },
+      "qty": 2
+    }
+  },
+  "phone": "0335405097",
+  "address": "Lào",
+  "createdAt": {
+    "$date": "2021-04-26T14:47:41.935Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-26T14:47:41.935Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60882483230feb1de059847f"
+  },
+  "paymentType": "COD",
+  "status": "order_placed",
+  "customerId": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "items": {
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 1
+    },
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 1
+    },
+    "5eee651f739f8c674fd736ee": {
+      "item": {
+        "_id": "5eee651f739f8c674fd736ee",
+        "name": "Margherita",
+        "image": "pizza.png",
+        "price": 250,
+        "size": "small"
+      },
+      "qty": 3
+    }
+  },
+  "phone": "(+84) 914863809",
+  "address": "Ngõ 622 Minh Khai, Hai Bà Trưng, Hà Nội",
+  "createdAt": {
+    "$date": "2021-04-27T14:49:39.826Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-27T14:49:39.826Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60882610bffe723b58fb57d3"
+  },
+  "paymentType": "COD",
+  "status": "order_placed",
+  "customerId": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "items": {
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 2
+    },
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 1
+    },
+    "5eee651f739f8c674fd736ee": {
+      "item": {
+        "_id": "5eee651f739f8c674fd736ee",
+        "name": "Margherita",
+        "image": "pizza.png",
+        "price": 250,
+        "size": "small"
+      },
+      "qty": 1
+    }
+  },
+  "phone": "0335405098",
+  "address": "Chung Cư Đồng Phát",
+  "createdAt": {
+    "$date": "2021-04-27T14:56:16.426Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-27T14:56:16.426Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60942d0903859712f49b2653"
+  },
+  "paymentType": "COD",
+  "status": "order_placed",
+  "customerId": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "items": {
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 1
+    },
+    "5eee651f739f8c674fd736ee": {
+      "item": {
+        "_id": "5eee651f739f8c674fd736ee",
+        "name": "Margherita",
+        "image": "pizza.png",
+        "price": 250,
+        "size": "small"
+      },
+      "qty": 1
+    }
+  },
+  "phone": "(+84) 914863809",
+  "address": "hồng lĩnh",
+  "createdAt": {
+    "$date": "2021-05-06T17:53:13.262Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-06T17:53:13.262Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612bae6d47feab417435d3a6"
+  },
+  "paymentType": "COD",
+  "status": "order_placed",
+  "customerId": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "items": {
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 1
+    },
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 1
+    }
+  },
+  "phone": "0335405097",
+  "address": "dsdsdsd",
+  "createdAt": {
+    "$date": "2021-08-29T15:57:33.409Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-29T15:57:33.409Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613464a98bf2ac09d4c1451f"
+  },
+  "paymentType": "COD",
+  "paymentStatus": false,
+  "status": "completed",
+  "customerId": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "items": {
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 1
+    },
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 1
+    },
+    "5eee651f739f8c674fd736ee": {
+      "item": {
+        "_id": "5eee651f739f8c674fd736ee",
+        "name": "Margherita",
+        "image": "pizza.png",
+        "price": 250,
+        "size": "small"
+      },
+      "qty": 1
+    }
+  },
+  "phone": "0335405097",
+  "address": "Nam Hồng",
+  "createdAt": {
+    "$date": "2021-09-05T06:33:13.235Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-05T07:15:50.878Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61346ec744a150463886e86d"
+  },
+  "paymentType": "COD",
+  "paymentStatus": false,
+  "status": "completed",
+  "customerId": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "items": {
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 1
+    },
+    "5eee651f739f8c674fd736ee": {
+      "item": {
+        "_id": "5eee651f739f8c674fd736ee",
+        "name": "Margherita",
+        "image": "pizza.png",
+        "price": 250,
+        "size": "small"
+      },
+      "qty": 1
+    },
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 1
+    }
+  },
+  "phone": "0335405097",
+  "address": "nam hồng",
+  "createdAt": {
+    "$date": "2021-09-05T07:16:23.020Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-05T07:17:12.440Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613472e88f3c21376c714a95"
+  },
+  "paymentType": "COD",
+  "paymentStatus": false,
+  "status": "delivered",
+  "customerId": {
+    "$oid": "608040ce34658324b8b461a5"
+  },
+  "items": {
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 1
+    },
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 1
+    }
+  },
+  "phone": "0335405097",
+  "address": "chung cư đồng pjays",
+  "createdAt": {
+    "$date": "2021-09-05T07:34:00.118Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-05T07:34:55.013Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6135fa5c3d13510b8cb4acb6"
+  },
+  "paymentType": "COD",
+  "paymentStatus": false,
+  "status": "completed",
+  "customerId": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "items": {
+    "5eee6692a27a66807cf2bea4": {
+      "item": {
+        "_id": "5eee6692a27a66807cf2bea4",
+        "name": "Carbonara",
+        "image": "pizza.png",
+        "price": 200,
+        "size": "small"
+      },
+      "qty": 2
+    },
+    "5eee6671a27a66807cf2bea3": {
+      "item": {
+        "_id": "5eee6671a27a66807cf2bea3",
+        "name": "Marinara",
+        "image": "pizza.png",
+        "price": 300,
+        "size": "medium"
+      },
+      "qty": 2
+    },
+    "5eee66a5a27a66807cf2bea5": {
+      "item": {
+        "_id": "5eee66a5a27a66807cf2bea5",
+        "name": "Americana",
+        "image": "pizza.png",
+        "price": 500,
+        "size": "large"
+      },
+      "qty": 2
+    },
+    "5eee651f739f8c674fd736ee": {
+      "item": {
+        "_id": "5eee651f739f8c674fd736ee",
+        "name": "Margherita",
+        "image": "pizza.png",
+        "price": 250,
+        "size": "small"
+      },
+      "qty": 1
+    }
+  },
+  "phone": "0335405097",
+  "address": "Hà Nội",
+  "createdAt": {
+    "$date": "2021-09-06T11:24:12.812Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T11:25:07.037Z"
+  },
+  "__v": 0
+}]

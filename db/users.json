@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "607f0fc2e9319f01f00f41c9"
+  },
+  "role": "customer",
+  "name": "Nguyen Thanh Dat",
+  "email": "nguyenthanhdat12c@gmail.com",
+  "password": "$2b$10$mfrQO8xiPF7se9ssMaMMgewCl0zEIAWV4.bcsYWzRTVLecExsrREa",
+  "createdAt": {
+    "$date": "2021-04-20T17:30:42.627Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-20T17:30:42.627Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608040ce34658324b8b461a5"
+  },
+  "role": "admin",
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$Hx3JvgWyx4J0AUiSa/Ddt.8KZJ9BBrSR47rvyz2w0CzODErcLV.Dy",
+  "createdAt": {
+    "$date": "2021-04-21T15:12:14.993Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-21T15:12:14.993Z"
+  },
+  "__v": 0
+}]
